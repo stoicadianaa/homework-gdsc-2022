@@ -6,7 +6,7 @@ A new Flutter project.
 
 This is the project's inspiration:
 
-![Project inspiration](https://www.figma.com/file/dYbNR8aOZbMkLNfJs5IXLJ/Profile-page-Mobile-UI-(Community)?node-id=102%3A80&t=f92ZinRFjklqop73-4)
+![Project inspiration](https://github.com/stoicadianaa/homework-gdsc-2022/blob/master/profile-page.png)
 
 A few resources to get you started if this is your first Flutter project:
 

@@ -14,7 +14,7 @@ class ProfilePage extends StatelessWidget {
             children: [
               Container(
                 width: width/2,
-                height: height/2-90,
+                height: height/2-70,
                 color: Colors.blue[200],
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,

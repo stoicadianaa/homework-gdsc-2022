@@ -14,6 +14,7 @@ class ProfilePage extends StatelessWidget {
           Row(
             children: [
               Container(
+
                 width: width/2,
                 height: height/2.5,
                 color: Colors.blue[100],

@@ -11,6 +11,7 @@ class ProfilePage extends StatelessWidget {
       body: ListView(
         children: [
           Row(
+
             children: [
               Container(
                 width: width/2,

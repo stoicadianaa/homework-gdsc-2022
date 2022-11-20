@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-
 class ProfilePage extends StatelessWidget {
   const ProfilePage({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     double width = MediaQuery.of(context).size.width;
@@ -11,7 +9,6 @@ class ProfilePage extends StatelessWidget {
       body: ListView(
         children: [
           Row(
-
             children: [
               Container(
                 width: width/2,
